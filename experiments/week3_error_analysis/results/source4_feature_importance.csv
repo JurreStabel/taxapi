@@ -1,0 +1,339 @@
+Feature,Importance
+woz_value,0.6971018181662386
+source_4,0.18959162859439502
+woz_days_diff,0.015341243484407217
+source_1,0.014677670659989426
+plot_area,0.012827046362714579
+floor_area,0.01268981591422077
+source_3,0.011830510848919625
+source_2,0.009983088754000228
+municipality_Midden-Drenthe,0.004189195634341753
+build_year,0.0037137314096966044
+object_type_Bovenwoning,0.003428435900666461
+longitude,0.0032691166531186116
+latitude,0.0026260550236385004
+volume,0.0019297337434640432
+province_Drenthe,0.0013370082481848386
+object_type_Vrijstaande woning,0.0013299073361631023
+municipality_Hoeksche Waard,0.0009103761518824112
+municipality_Koggenland,0.0008149783489975668
+object_type_2-onder-1-kapwoning,0.0008043882355858592
+municipality_Haarlem,0.0006334856415667715
+municipality_Tiel,0.0005588038759638491
+municipality_Delft,0.0005369061506838599
+energy_label_missing,0.0005336016364214651
+object_type_Garage,0.0005282857366767307
+energy_label_F,0.0004761770498575608
+municipality_Amsterdam,0.0004082240135787036
+energy_label_G,0.0003508359299057974
+energy_label_A,0.0003317280978911106
+municipality_Leusden,0.0003140263648435068
+province_Utrecht,0.00024801618543781554
+municipality_Leidschendam-Voorburg,0.00024743535050293126
+municipality_Zaltbommel,0.00022799680109816063
+province_Noord-Holland,0.0002229784348724777
+province_Zuid-Holland,0.00021067846484357978
+municipality_Heemskerk,0.00020752006572422857
+municipality_Ede,0.00020074618831090644
+energy_label_C,0.0001610101167685473
+municipality_Utrechtse Heuvelrug,0.00015780436311246113
+province_Gelderland,0.00015606187840839212
+object_type_Tussenwoning,0.00015391915793973345
+municipality_Rhenen,0.0001456375556412695
+object_type_Halfvrijstaande woning,0.00014224826690692753
+municipality_Nijmegen,0.00014037689536250278
+energy_label_B,0.0001383668345557202
+province_Noord-Brabant,0.0001315296379834026
+municipality_Gooise Meren,0.00012729475879721868
+municipality_Teylingen,0.0001233719452743394
+municipality_Zaanstad,0.00011430631174140968
+municipality_Schiedam,0.00011156444973693929
+municipality_'s-Hertogenbosch,0.00010764129028960975
+municipality_Bloemendaal,0.00010107850817047862
+energy_label_E,9.832764639810102e-05
+municipality_Leudal,9.750823306124045e-05
+object_type_Benedenwoning,9.685198904064375e-05
+municipality_Amersfoort,9.579406170911081e-05
+municipality_Sittard-Geleen,8.98108339707241e-05
+province_Limburg,8.882551251785065e-05
+municipality_Dordrecht,8.745981295451305e-05
+energy_label_D,7.687846182584814e-05
+municipality_Molenlanden,7.25790758624039e-05
+municipality_Heerlen,6.458923963101364e-05
+object_type_Geschakelde woning,6.388091930142304e-05
+municipality_Bodegraven-Reeuwijk,6.369261839988893e-05
+object_type_Hoekwoning,5.881662393095847e-05
+object_type_Portiekflat,5.811866618502298e-05
+municipality_Bergen,5.8113814040821964e-05
+municipality_Peel en Maas,4.925839455810652e-05
+energy_label_A++++,4.881385656154302e-05
+municipality_Eindhoven,4.6862270054688104e-05
+municipality_Vught,4.642336339298444e-05
+municipality_Horst aan de Maas,4.5204387795647024e-05
+municipality_Groningen,4.351745020633794e-05
+municipality_Uithoorn,4.333887107985098e-05
+energy_label_A+++,4.3314076065110705e-05
+municipality_Elburg,4.2362927864849284e-05
+municipality_Buren,4.00464569541112e-05
+municipality_Hollands Kroon,3.972323977604271e-05
+municipality_Maasgouw,3.9206666774638375e-05
+municipality_West Betuwe,3.803673054688831e-05
+municipality_Utrecht,3.585529005450687e-05
+municipality_Bunschoten,3.572274502922424e-05
+municipality_Maashorst,3.509068788015414e-05
+object_type_Eindwoning,3.020582076827031e-05
+province_Overijssel,2.9238885376525804e-05
+municipality_Roermond,2.823010608315213e-05
+municipality_Maastricht,2.7962249246134912e-05
+municipality_Heusden,2.7526486064697078e-05
+municipality_Katwijk,2.6542045175057133e-05
+municipality_Dijk en Waard,2.5881775666238608e-05
+municipality_Zwolle,2.520405468625587e-05
+municipality_Cranendonck,2.4839922038269307e-05
+municipality_Almere,2.4621866663966358e-05
+municipality_Landgraaf,2.446649848071018e-05
+municipality_Steenwijkerland,2.398053390825934e-05
+energy_label_A+,2.3816928481710807e-05
+municipality_Lingewaard,2.3201307369291346e-05
+province_Groningen,2.2625121850818834e-05
+municipality_Zuidplas,2.251010271340033e-05
+municipality_Gemert-Bakel,2.2217390540347614e-05
+municipality_Voorne aan Zee,2.202738223959359e-05
+municipality_Stichtse Vecht,2.198052373720027e-05
+municipality_Aalsmeer,2.134569341246746e-05
+municipality_Weststellingwerf,2.1063618421263886e-05
+municipality_Velsen,2.0373244350460597e-05
+municipality_Echt-Susteren,1.9798770045912603e-05
+municipality_Heiloo,1.959283030640269e-05
+municipality_Nieuwegein,1.9469494642463697e-05
+energy_label_A++,1.931256846226828e-05
+province_Flevoland,1.918604214061696e-05
+municipality_Alkmaar,1.895580716810451e-05
+municipality_'s-Gravenhage,1.8927989538769135e-05
+municipality_Sint-Michielsgestel,1.8743122836036495e-05
+"municipality_Nuenen, Gerwen en Nederwetten",1.7998339597372537e-05
+municipality_Beverwijk,1.779446157588785e-05
+municipality_De Bilt,1.7071694731805057e-05
+object_type_Waterwoning,1.6991608815227674e-05
+object_type_Geschakelde 2-onder-1-kapwoning,1.6925421837454485e-05
+municipality_Enschede,1.6238795479984746e-05
+municipality_Meierijstad,1.623812053965334e-05
+municipality_Altena,1.6179038687673876e-05
+municipality_Houten,1.5769697143844197e-05
+municipality_Haarlemmermeer,1.5638045342546952e-05
+municipality_Schagen,1.5093148359262097e-05
+municipality_Venray,1.4975291990745574e-05
+municipality_De Ronde Venen,1.462259057274339e-05
+municipality_Nijkerk,1.4578529864077895e-05
+municipality_Zandvoort,1.4472410658775908e-05
+municipality_Hardenberg,1.4412780616419529e-05
+municipality_Kerkrade,1.4027831103947575e-05
+municipality_Barendrecht,1.3910932493130825e-05
+municipality_Arnhem,1.3307744550240392e-05
+municipality_Oostzaan,1.2770605469613212e-05
+municipality_Heemstede,1.27094410466132e-05
+municipality_Barneveld,1.2660925993730036e-05
+object_type_Maisonnette,1.2603562834363157e-05
+municipality_Beuningen,1.2455739164514014e-05
+object_type_Corridorflat,1.2371516346105301e-05
+municipality_Zeist,1.208545917141725e-05
+municipality_Scherpenzeel,1.1554424446271366e-05
+municipality_Apeldoorn,1.1529039425781117e-05
+municipality_Neder-Betuwe,1.1013564064999725e-05
+municipality_Baarn,1.0882400250055596e-05
+municipality_Zoetermeer,1.0440463029604218e-05
+municipality_Nissewaard,1.0410815424331837e-05
+municipality_Drimmelen,1.0193576527526363e-05
+municipality_West Maas en Waal,9.896302822987499e-06
+municipality_Waterland,9.84938276395816e-06
+province_Friesland,9.282968805011107e-06
+municipality_Maasdriel,9.032531979581654e-06
+municipality_Soest,8.866263652952672e-06
+municipality_Rotterdam,8.602852465777958e-06
+municipality_Oss,8.579106293460443e-06
+municipality_Edam-Volendam,8.462172638269353e-06
+municipality_Midden-Delfland,8.084119218269748e-06
+municipality_Valkenswaard,8.067179072978472e-06
+municipality_Hoorn,7.983765544866724e-06
+municipality_Beek,7.946446600615637e-06
+municipality_Epe,7.760080209025674e-06
+municipality_Duiven,7.683791548660843e-06
+object_type_Galerijflat,7.593518648595636e-06
+municipality_Bernheze,7.395991354214908e-06
+municipality_Gulpen-Wittem,7.302314648358665e-06
+municipality_Nunspeet,6.966851858696122e-06
+municipality_Oisterwijk,6.834317160539306e-06
+municipality_Leiden,6.177988815812287e-06
+municipality_Land van Cuijk,6.159844309940017e-06
+municipality_Eijsden-Margraten,6.007925943011615e-06
+municipality_Beekdaelen,5.97565618422573e-06
+municipality_Castricum,5.8685111338053855e-06
+municipality_Venlo,5.766760170898365e-06
+municipality_Renkum,5.573180666337233e-06
+municipality_Staphorst,5.560894541220392e-06
+municipality_Amstelveen,5.496798740098217e-06
+municipality_Assen,5.39360279084388e-06
+municipality_Woerden,5.225198213182862e-06
+municipality_Valkenburg aan de Geul,4.1652059765820734e-06
+municipality_Haaksbergen,4.055033188652305e-06
+municipality_Helmond,3.842678931122495e-06
+municipality_Simpelveld,3.7377588136881897e-06
+municipality_Stein,3.716949613875525e-06
+municipality_Veenendaal,3.6681047355004487e-06
+municipality_Putten,3.5715187115525694e-06
+municipality_Purmerend,3.4049793859761793e-06
+municipality_Vaals,3.366734496359924e-06
+municipality_Nederweert,3.2130543115792364e-06
+municipality_Heeze-Leende,3.1587783893893713e-06
+municipality_Overbetuwe,3.0307326919923895e-06
+municipality_Waalre,2.937623092730957e-06
+municipality_Raalte,2.7914375767050563e-06
+municipality_Montfoort,2.670645407186803e-06
+municipality_Weert,2.670490129363282e-06
+municipality_Hengelo,2.5131735247341845e-06
+municipality_Hilversum,2.398518071192265e-06
+municipality_Huizen,2.3860422294537372e-06
+municipality_Noordwijk,2.1878832505008733e-06
+municipality_Hillegom,2.1572549063859232e-06
+municipality_Goeree-Overflakkee,2.0056163023901387e-06
+municipality_Woudenberg,1.9498276045960013e-06
+municipality_Vijfheerenlanden,1.915492054229851e-06
+municipality_Gennep,1.9025054541484625e-06
+municipality_Renswoude,1.8446044167283268e-06
+province_Zeeland,1.817021902743131e-06
+municipality_Dalfsen,1.79832964096613e-06
+municipality_Boekel,1.787198591866878e-06
+municipality_Smallingerland,1.7850619515026448e-06
+municipality_Westland,1.7702290287316354e-06
+municipality_Doesburg,1.7435046893689462e-06
+municipality_Ooststellingwerf,1.67633740492372e-06
+municipality_Laren,1.604375225021358e-06
+municipality_Rijswijk,1.5514400514360068e-06
+municipality_Westerwolde,1.5439769309346876e-06
+municipality_Alphen aan den Rijn,1.5362675059090626e-06
+municipality_Berkelland,1.4990046624316464e-06
+municipality_Oldebroek,1.4418563483039173e-06
+municipality_Brunssum,1.4226712363651987e-06
+municipality_Voerendaal,1.3883004326177858e-06
+municipality_Rheden,1.316469917397563e-06
+municipality_Stadskanaal,1.2807887968049143e-06
+municipality_Achtkarspelen,1.2333592124582236e-06
+municipality_Bergen op Zoom,1.1894815987731977e-06
+municipality_Meerssen,1.095117922918178e-06
+municipality_De Fryske Marren,1.092910697602242e-06
+municipality_Alblasserdam,1.0678690382444578e-06
+municipality_Waalwijk,1.0506952583885549e-06
+municipality_Uitgeest,1.0400415137159454e-06
+municipality_Borne,1.0330618277000175e-06
+municipality_Lopik,1.0019168338191985e-06
+municipality_Hof van Twente,9.735402356322311e-07
+municipality_Middelburg,9.314875468458489e-07
+municipality_Terneuzen,8.764879514655483e-07
+municipality_Kampen,8.4196205802281e-07
+municipality_Emmen,8.378272301772504e-07
+municipality_Borger-Odoorn,8.003805847256e-07
+municipality_Laarbeek,7.66112703299204e-07
+municipality_Blaricum,7.468816788891193e-07
+municipality_Wormerland,7.215770768878902e-07
+municipality_Bronckhorst,7.188877866268934e-07
+municipality_Ouder-Amstel,7.155599729392459e-07
+municipality_Lisse,6.924644572899374e-07
+municipality_Montferland,6.450130023506306e-07
+municipality_Pijnacker-Nootdorp,6.449842393414559e-07
+municipality_Culemborg,5.944387768787563e-07
+municipality_Beesel,5.834892075670534e-07
+municipality_Waddinxveen,5.72045787032166e-07
+municipality_Zwijndrecht,5.713776293036528e-07
+municipality_Oirschot,5.623648825754266e-07
+municipality_Westerveld,5.312124203708984e-07
+municipality_Veldhoven,5.245007247813286e-07
+municipality_Hulst,5.192248590531421e-07
+municipality_Ermelo,5.019911731440511e-07
+municipality_Geldrop-Mierlo,4.881657861328654e-07
+municipality_Opsterland,4.67952172487293e-07
+municipality_Papendrecht,4.205176036249541e-07
+municipality_Noordenveld,4.1979389210439317e-07
+object_type_Portiekwoning,4.1335315980643334e-07
+municipality_Meppel,4.1198344267055957e-07
+municipality_Tynaarlo,3.8904855069734644e-07
+municipality_Bergeijk,3.789129117510939e-07
+municipality_Ridderkerk,3.56725107708916e-07
+municipality_Urk,3.075588013670678e-07
+municipality_Zevenaar,3.024880311993342e-07
+municipality_Diemen,3.000079726148515e-07
+municipality_Albrandswaard,2.9168578853663254e-07
+municipality_Bunnik,2.879891028644031e-07
+municipality_Best,2.7815438071619986e-07
+municipality_Heerde,2.726000715249421e-07
+municipality_De Wolden,2.500843304477069e-07
+municipality_Etten-Leur,2.48002786291649e-07
+municipality_Borsele,2.3712941527589721e-07
+municipality_Roerdalen,2.202270342392188e-07
+municipality_Leiderdorp,2.09384422591913e-07
+municipality_Hilvarenbeek,2.0545195352132654e-07
+municipality_Coevorden,2.049652836540033e-07
+municipality_Schouwen-Duiveland,1.9112319932504102e-07
+municipality_Someren,1.8183400750634845e-07
+municipality_Goes,1.7396590906330438e-07
+municipality_Breda,1.4512614755536552e-07
+municipality_Drechterland,1.2501588646487783e-07
+municipality_Zwartewaterland,1.0978924060044212e-07
+municipality_Sliedrecht,1.093120984250851e-07
+municipality_Doetinchem,1.0177900612758388e-07
+municipality_Oudewater,8.629319480843483e-08
+municipality_Son en Breugel,8.245901756241314e-08
+municipality_Hendrik-Ido-Ambacht,7.235270478687271e-08
+municipality_Nieuwkoop,6.777897590310027e-08
+municipality_Sluis,6.036567972193785e-08
+municipality_Krimpenerwaard,5.5589760450408386e-08
+municipality_Schiermonnikoog,5.331113408747933e-08
+municipality_Voorschoten,4.3847646013632184e-08
+municipality_Wageningen,3.806448792971558e-08
+municipality_Landsmeer,3.493974622778949e-08
+municipality_Eemsdelta,3.484998189959722e-08
+municipality_Harderwijk,3.252734119495958e-08
+municipality_Noordoostpolder,3.109915402534014e-08
+municipality_Lelystad,2.7661846793507023e-08
+municipality_Westerkwartier,2.7596170416096146e-08
+municipality_Moerdijk,2.6625859264598297e-08
+municipality_Tilburg,2.6336727716898156e-08
+municipality_Zeewolde,2.5285294437259016e-08
+municipality_Noardeast-Fryslân,2.2819728621700575e-08
+municipality_Veendam,1.974205480025748e-08
+municipality_Lansingerland,1.8979962117584008e-08
+municipality_Gouda,1.673807243273463e-08
+municipality_Druten,1.4755236311150436e-08
+municipality_Brummen,1.3629953555102557e-08
+municipality_Heerenveen,1.0856406609388073e-08
+municipality_Midden-Groningen,9.659505199687921e-09
+municipality_Kapelle,9.236541677498756e-09
+municipality_Oegstgeest,6.2884565251091714e-09
+municipality_Capelle aan den IJssel,5.77772080715091e-09
+municipality_Berg en Dal,5.009362745187794e-09
+municipality_Boxtel,4.9276130141739386e-09
+municipality_Den Helder,4.056698993782094e-09
+municipality_Oldambt,8.556188332583293e-10
+municipality_Leeuwarden,5.702008282972866e-10
+municipality_Loon op Zand,3.3118246051083034e-10
+municipality_Het Hogeland,3.183251608375923e-11
+municipality_Medemblik,6.8746429935211494e-12
+municipality_Asten,0.0
+municipality_Aa en Hunze,0.0
+municipality_Halderberge,0.0
+municipality_Hattem,0.0
+municipality_Maassluis,0.0
+municipality_IJsselstein,0.0
+municipality_Geertruidenberg,0.0
+municipality_Rucphen,0.0
+municipality_Deventer,0.0
+municipality_Opmeer,0.0
+municipality_Olst-Wijhe,0.0
+municipality_Eemnes,0.0
+municipality_Roosendaal,0.0
+municipality_Tytsjerksteradiel,0.0
+municipality_Twenterand,0.0
+municipality_Texel,0.0
+municipality_Voorst,0.0
+municipality_Vlaardingen,0.0
+municipality_Westervoort,0.0
+municipality_Wijk bij Duurstede,0.0

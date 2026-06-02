@@ -1,16 +1,25 @@
 # taxapi
 
-Exploration of a Dutch property valuation dataset (WOZ + model values + ground truth).
+Benchmarking model-based valuations of Dutch residential property against ground
+truth (WOZ + model sources + ground truth). A shared library builds a leakage-safe
+benchmark; each week's analysis lives as a self-contained experiment.
 
-## Data
+## Layout
 
-The `full_dataset_model_values_assignment/` directory (gitignored) contains:
-
-| File | Rows | Size | Description |
-| --- | ---: | ---: | --- |
-| `ground_truth_data.csv` | 1,107,924 | 141 MB | Property records with full attributes and a ground-truth `value`. Column `gt_source` identifies the source. |
-| `model_values_data.csv` | 117,346 | 14 MB | Model-predicted values for properties. Multiple rows per property (one per `mv_source`). |
-| `woz_values.csv` | 97,815,511 | 2.7 GB | Historical official WOZ valuations keyed by `(postal_code, house_number, letter)` and `reference_date`. |
+```
+taxapi/                         shared library
+  core/        paths, metrics, modeling, features, splitting, matching, runner
+  builders/    clean.py, woz.py, source4.py   (build the benchmark datasets)
+  pipelines/   train.py                        (run the builders end to end)
+  exploration/ inspect_data.py                 (profile the raw data)
+experiments/                    one folder per chapter; each has scripts/ plots/ results/ README
+  week1_source_evaluation/      sources 1-3 as standalone predictors
+  week2_woz_model/              first RandomForest with WOZ
+  week3_error_analysis/         + source 4; error by price/type/municipality, residuals
+  week4_relaxed_benchmark/      Stage B: relaxed (+30d) benchmark, coverage vs accuracy
+  week4_partial_sources/        Stage C: partial-source scenarios
+data/                           gitignored: raw/ + benchmark/
+```
 
 ## Setup
 
@@ -20,8 +29,30 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-## Inspect the data
+Place the raw files in `data/raw/` (`ground_truth_data.csv`, `model_values_data.csv`,
+`woz_values.csv`, `model_values_source_4_data.csv`).
+
+## Build the benchmark
 
 ```bash
-python scripts/inspect_data.py
+python -m taxapi.pipelines.train             # gold / strict   -> data/benchmark/
+python -m taxapi.pipelines.train --relaxed   # relaxed +30d     -> data/benchmark/relaxed/
 ```
+
+## Run an experiment
+
+All experiments run as modules from the repo root, e.g.:
+
+```bash
+python -m experiments.week4_relaxed_benchmark.scripts.relaxed_compare
+```
+
+Each experiment writes its CSVs to its own `results/` and figures to its own `plots/`;
+see the README inside each experiment folder. The data pipeline is shared in `taxapi/`.
+
+## Headline results
+
+- **Benchmark:** 31,140 leakage-safe rows; relaxing the date window to +30 days adds
+  +35% rows at the same accuracy (week 4 / relaxed).
+- **Coverage:** `source_1 + WOZ` already reaches near-best accuracy across most of the
+  housing stock (week 4 / partial sources).

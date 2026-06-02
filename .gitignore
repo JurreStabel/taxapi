@@ -10,12 +10,14 @@ __pycache__/
 .venv/
 venv/
 env/
+claude/
+.claude/
 
-# Data
-full_dataset_model_values_assignment/
+# Data (raw + generated benchmark CSVs)
+data/
 
-# Generated plots
-plots/
+# Windows "downloaded file" metadata
+*:Zone.Identifier
 
 # Editor / OS
 .vscode/
@@ -24,3 +26,6 @@ plots/
 
 # Notebooks
 .ipynb_checkpoints/
+
+# CatBoost logs
+catboost_info/
